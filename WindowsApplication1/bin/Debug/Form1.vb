@@ -1,4 +1,5 @@
 ﻿Imports System.Net
+Imports System.IO
 Imports System.IO.Compression
 
 Public Class Form1
